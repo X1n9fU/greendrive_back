@@ -10,14 +10,18 @@
 - 저공해 차량에 대하여 할인 및 혜택을 받을 수 있는 주차장 소개 서비스
 - 동시에 주차장 즐겨 찾기 기능, 주차장 별점 후기 기능을 추가하여 주차장 상태를 파악할 수 있는  정보와 편리함을 추가
 
-### 회원가입 및 로그인
+## 아키텍처 구조
+![기술스택 JPG](https://github.com/user-attachments/assets/d6c0b18d-c616-4dfc-8989-98370e89781f)
+
+## UI/UX
+**회원가입 및 로그인**
 ![그림1](https://github.com/user-attachments/assets/cc407cf3-a6e1-4029-860a-aa2fca4b2c79)
 
-### 메인화면
+**메인화면**
 ![그림2](https://github.com/user-attachments/assets/942ee6ab-8e95-4f86-b5a2-c5d24a68db16)
 
-### 전용주차장 리뷰
+**전용주차장 리뷰**
 ![그림3](https://github.com/user-attachments/assets/1b4aa515-83d2-4fc0-88b9-ec9670b1c964)
 
-### 마이페이지
+**마이페이지**
 ![그림4](https://github.com/user-attachments/assets/a98676e5-670c-4a34-9f29-a1b9b9c11d27)
